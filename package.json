@@ -5,14 +5,14 @@
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
-    "react-scripts": "1.1.4",
-	"sonar": "node sonar-project.js"
+    "react-scripts": "1.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "jest",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "sonar": "node sonar-project.js"
   },
   "devDependencies": {
     "babel-jest": "^22.4.3",
