@@ -4,7 +4,7 @@
 replicaCount: 1
 image:
   repository: 10.59.251.14:5000/krithiva/react-testings
-  tag: 0.0.2
+  tag: 0.0.3
   pullPolicy: IfNotPresent
 service:
   name: react-testings
